@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+picture, h1, p {
+    @apply opacity-0 transition-opacity duration-[4000ms] ease-linear;
+}
+
+picture {
+    @apply delay-[10000ms]
+}
+
+h1 {
+    @apply delay-[4000ms]
+}
+
+p {
+    @apply delay-[16000ms]
+}
+
+.fade-in picture {
+    @apply opacity-80;
+}
+
+.fade-in h1 {
+    @apply opacity-100;
+}
+
+.fade-in p {
+    @apply opacity-100;
+}

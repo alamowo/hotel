@@ -7,15 +7,15 @@ picture, h1, p {
 }
 
 picture {
-    @apply delay-[10000ms]
+    @apply delay-[3000ms]
 }
 
 h1 {
-    @apply delay-[4000ms]
+    @apply delay-[1000ms]
 }
 
 p {
-    @apply delay-[16000ms]
+    @apply delay-[6000ms]
 }
 
 .fade-in picture {

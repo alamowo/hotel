@@ -7,6 +7,7 @@
             class="mix-blend-difference  text-white absolute z-10 inset-0 flex flex-col gap-6 items-center justify-center text-center">
             <h1 class="font-serif text-5xl lg:text-[128px] mix-blend-multiply pt-10">Hotel Deutschland</h1>
             <p class="font-serif text-xl lg:text-[64px]">- keine Kartenzahlung -</p>
+<p class="font-serif text-xl lg:text-[64px]">- und Emilia hat die Puffels erfunden -</p>
         </div>
     </div>
 </template>
